@@ -1,0 +1,10 @@
+
+li.global-nav__primary-item span.t-12 break-words.block.t-black--light.t-normal.global-nav__primary-link-text{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+}
+#image_saved {
+    height: 20px;
+    margin: 3px;
+}
