@@ -51,3 +51,14 @@ Additional Notes:
 Disclaimer:
 
     Use the code responsibly and ensure compliance with LinkedIn's terms of service and API usage policies.Modify the code according to your specific requirements and use case.
+
+Shcreenshort image
+
+![Screenshot (540)](https://github.com/TaraKumari880/chrome-extension/assets/103999593/2a44ec35-fb6d-430d-8bc7-d16c30215ae2)
+
+![Screenshot (539)](https://github.com/TaraKumari880/chrome-extension/assets/103999593/f61b2638-d55b-4dd9-b05d-2b23fb442912)
+
+![Screenshot (541)](https://github.com/TaraKumari880/chrome-extension/assets/103999593/92a88292-7cc7-4586-a4e4-075d9b4b9605)
+
+
+
